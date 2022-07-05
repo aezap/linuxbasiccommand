@@ -1,0 +1,6 @@
+[book]
+authors = ["eza"]
+language = "en"
+multilingual = false
+src = "src"
+title = "tugas linux basic command"
